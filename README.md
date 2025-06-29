@@ -28,7 +28,7 @@ MATLAB R2024a or later
 
 **How to Run**
 
-Each analysis folder is located under ‘Code’ and includes a ‘Main’ script that performs the analysis and generates the figure described in the paper.
+Each analysis folder is located under ‘code’ and includes a ‘Main’ script that performs the analysis and generates the figure described in the paper.
 1.	Clone or download this repository
 2.	Open MATLAB and add the folder corresponding to the target analysis category　 to the MATLAB path.
 3.	Change the working directory to ‘Data’.
