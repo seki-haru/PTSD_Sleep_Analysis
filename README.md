@@ -18,7 +18,7 @@ The ‘data’ directory contains two top-level folders; ‘Healthy’ and ‘PT
 Each of these folders includes subfolders for each participant, and within each participant folder are individual files representing nightly sleep staging data.
 - Sleep staging data are scored in 30-second epochs following AASM criteria.
 - Each file corresponds to one night of recording
-**The participant IDs used in this dataset were independently assigned by S’UIMIN Inc. and cannot be used to identify individuals.**
+**The participant IDs and recording IDs used in this dataset were independently assigned by S’UIMIN Inc. and cannot be used to identify individuals.**
 
 
 **Environment**
