@@ -1,4 +1,4 @@
-# PTSD_Sleep_Analysis
+# REM sleep rhythm impairment in people with PTSD
 **Overview**
 
 This repository contains MATLAB scripts for analyzing sleep structure based on 30-second epoch sleep stage data. The analyses are categorized into the following five modules and involve comparisons between healthy controls and people with PTSD.
